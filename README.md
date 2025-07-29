@@ -21,7 +21,7 @@ Este projeto é um sistema avançado de auto-trading para ouro, utilizando IA (L
 3. **Execute o sistema:**
 
    ```bash
-   streamlit run app.py
+   python3 -m streamlit run app.py
    ```
 
 4. **Acesse o dashboard:**
