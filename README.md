@@ -1,4 +1,3 @@
-# Auto_trader
 # AutoTrader IA LSTM Ultra-Precisão
 
 Este projeto é um sistema avançado de auto-trading para ouro, utilizando IA (LSTM), Streamlit e técnicas institucionais de análise de mercado.
